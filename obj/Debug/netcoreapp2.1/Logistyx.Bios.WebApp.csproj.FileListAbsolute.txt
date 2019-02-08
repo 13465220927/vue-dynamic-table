@@ -1,0 +1,108 @@
+C:\Users\Soft\source\repos\Logistyx.Bios.WebApp\bin\Debug\netcoreapp2.1\Logistyx.Bios.WebApp.deps.json
+C:\Users\Soft\source\repos\Logistyx.Bios.WebApp\bin\Debug\netcoreapp2.1\Logistyx.Bios.WebApp.runtimeconfig.json
+C:\Users\Soft\source\repos\Logistyx.Bios.WebApp\bin\Debug\netcoreapp2.1\Logistyx.Bios.WebApp.runtimeconfig.dev.json
+C:\Users\Soft\source\repos\Logistyx.Bios.WebApp\bin\Debug\netcoreapp2.1\Logistyx.Bios.WebApp.dll
+C:\Users\Soft\source\repos\Logistyx.Bios.WebApp\bin\Debug\netcoreapp2.1\Logistyx.Bios.WebApp.pdb
+C:\Users\Soft\source\repos\Logistyx.Bios.WebApp\bin\Debug\netcoreapp2.1\Logistyx.Bios.WebApp.Views.dll
+C:\Users\Soft\source\repos\Logistyx.Bios.WebApp\bin\Debug\netcoreapp2.1\Logistyx.Bios.WebApp.Views.pdb
+C:\Users\Soft\source\repos\Logistyx.Bios.WebApp\obj\Debug\netcoreapp2.1\Logistyx.Bios.WebApp.csprojAssemblyReference.cache
+C:\Users\Soft\source\repos\Logistyx.Bios.WebApp\obj\Debug\netcoreapp2.1\Logistyx.Bios.WebApp.csproj.CoreCompileInputs.cache
+C:\Users\Soft\source\repos\Logistyx.Bios.WebApp\obj\Debug\netcoreapp2.1\Logistyx.Bios.WebApp.RazorAssemblyInfo.cache
+C:\Users\Soft\source\repos\Logistyx.Bios.WebApp\obj\Debug\netcoreapp2.1\Logistyx.Bios.WebApp.RazorAssemblyInfo.cs
+C:\Users\Soft\source\repos\Logistyx.Bios.WebApp\obj\Debug\netcoreapp2.1\Logistyx.Bios.WebApp.AssemblyInfoInputs.cache
+C:\Users\Soft\source\repos\Logistyx.Bios.WebApp\obj\Debug\netcoreapp2.1\Logistyx.Bios.WebApp.AssemblyInfo.cs
+C:\Users\Soft\source\repos\Logistyx.Bios.WebApp\obj\Debug\netcoreapp2.1\Logistyx.Bios.WebApp.TagHelpers.input.cache
+C:\Users\Soft\source\repos\Logistyx.Bios.WebApp\obj\Debug\netcoreapp2.1\Logistyx.Bios.WebApp.TagHelpers.output.cache
+C:\Users\Soft\source\repos\Logistyx.Bios.WebApp\obj\Debug\netcoreapp2.1\Logistyx.Bios.WebApp.RazorCoreGenerate.cache
+C:\Users\Soft\source\repos\Logistyx.Bios.WebApp\obj\Debug\netcoreapp2.1\Razor\Views\Home\Index.g.cshtml.cs
+C:\Users\Soft\source\repos\Logistyx.Bios.WebApp\obj\Debug\netcoreapp2.1\Razor\Views\Shared\Error.g.cshtml.cs
+C:\Users\Soft\source\repos\Logistyx.Bios.WebApp\obj\Debug\netcoreapp2.1\Razor\Views\Shared\_Layout.g.cshtml.cs
+C:\Users\Soft\source\repos\Logistyx.Bios.WebApp\obj\Debug\netcoreapp2.1\Razor\Views\_ViewImports.g.cshtml.cs
+C:\Users\Soft\source\repos\Logistyx.Bios.WebApp\obj\Debug\netcoreapp2.1\Razor\Views\_ViewStart.g.cshtml.cs
+C:\Users\Soft\source\repos\Logistyx.Bios.WebApp\obj\Debug\netcoreapp2.1\Logistyx.Bios.WebApp.RazorTargetAssemblyInfo.cache
+C:\Users\Soft\source\repos\Logistyx.Bios.WebApp\obj\Debug\netcoreapp2.1\Logistyx.Bios.WebApp.RazorTargetAssemblyInfo.cs
+C:\Users\Soft\source\repos\Logistyx.Bios.WebApp\obj\Debug\netcoreapp2.1\Logistyx.Bios.WebApp.Views.pdb
+C:\Users\Soft\source\repos\Logistyx.Bios.WebApp\obj\Debug\netcoreapp2.1\Logistyx.Bios.WebApp.dll
+C:\Users\Soft\source\repos\Logistyx.Bios.WebApp\obj\Debug\netcoreapp2.1\Logistyx.Bios.WebApp.pdb
+C:\Users\Soft\source\repos\Logistyx.Bios.WebApp\obj\Debug\netcoreapp2.1\Logistyx.Bios.WebApp.csproj.CopyComplete
+C:\repos\BIOS\Logistyx.Bios.WebApp\bin\Debug\netcoreapp2.1\Logistyx.Bios.WebApp.deps.json
+C:\repos\BIOS\Logistyx.Bios.WebApp\bin\Debug\netcoreapp2.1\Logistyx.Bios.WebApp.runtimeconfig.json
+C:\repos\BIOS\Logistyx.Bios.WebApp\bin\Debug\netcoreapp2.1\Logistyx.Bios.WebApp.runtimeconfig.dev.json
+C:\repos\BIOS\Logistyx.Bios.WebApp\bin\Debug\netcoreapp2.1\Logistyx.Bios.WebApp.dll
+C:\repos\BIOS\Logistyx.Bios.WebApp\bin\Debug\netcoreapp2.1\Logistyx.Bios.WebApp.pdb
+C:\repos\BIOS\Logistyx.Bios.WebApp\bin\Debug\netcoreapp2.1\Logistyx.Bios.WebApp.Views.dll
+C:\repos\BIOS\Logistyx.Bios.WebApp\bin\Debug\netcoreapp2.1\Logistyx.Bios.WebApp.Views.pdb
+C:\repos\BIOS\Logistyx.Bios.WebApp\obj\Debug\netcoreapp2.1\Logistyx.Bios.WebApp.csprojAssemblyReference.cache
+C:\repos\BIOS\Logistyx.Bios.WebApp\obj\Debug\netcoreapp2.1\Logistyx.Bios.WebApp.csproj.CoreCompileInputs.cache
+C:\repos\BIOS\Logistyx.Bios.WebApp\obj\Debug\netcoreapp2.1\Logistyx.Bios.WebApp.RazorAssemblyInfo.cache
+C:\repos\BIOS\Logistyx.Bios.WebApp\obj\Debug\netcoreapp2.1\Logistyx.Bios.WebApp.RazorAssemblyInfo.cs
+C:\repos\BIOS\Logistyx.Bios.WebApp\obj\Debug\netcoreapp2.1\Logistyx.Bios.WebApp.AssemblyInfoInputs.cache
+C:\repos\BIOS\Logistyx.Bios.WebApp\obj\Debug\netcoreapp2.1\Logistyx.Bios.WebApp.AssemblyInfo.cs
+C:\repos\BIOS\Logistyx.Bios.WebApp\obj\Debug\netcoreapp2.1\Logistyx.Bios.WebApp.TagHelpers.input.cache
+C:\repos\BIOS\Logistyx.Bios.WebApp\obj\Debug\netcoreapp2.1\Logistyx.Bios.WebApp.TagHelpers.output.cache
+C:\repos\BIOS\Logistyx.Bios.WebApp\obj\Debug\netcoreapp2.1\Logistyx.Bios.WebApp.RazorCoreGenerate.cache
+C:\repos\BIOS\Logistyx.Bios.WebApp\obj\Debug\netcoreapp2.1\Razor\Views\Home\Index.g.cshtml.cs
+C:\repos\BIOS\Logistyx.Bios.WebApp\obj\Debug\netcoreapp2.1\Razor\Views\Shared\Error.g.cshtml.cs
+C:\repos\BIOS\Logistyx.Bios.WebApp\obj\Debug\netcoreapp2.1\Razor\Views\Shared\_Layout.g.cshtml.cs
+C:\repos\BIOS\Logistyx.Bios.WebApp\obj\Debug\netcoreapp2.1\Razor\Views\_ViewImports.g.cshtml.cs
+C:\repos\BIOS\Logistyx.Bios.WebApp\obj\Debug\netcoreapp2.1\Razor\Views\_ViewStart.g.cshtml.cs
+C:\repos\BIOS\Logistyx.Bios.WebApp\obj\Debug\netcoreapp2.1\Logistyx.Bios.WebApp.RazorTargetAssemblyInfo.cache
+C:\repos\BIOS\Logistyx.Bios.WebApp\obj\Debug\netcoreapp2.1\Logistyx.Bios.WebApp.RazorTargetAssemblyInfo.cs
+C:\repos\BIOS\Logistyx.Bios.WebApp\obj\Debug\netcoreapp2.1\Logistyx.Bios.WebApp.Views.pdb
+C:\repos\BIOS\Logistyx.Bios.WebApp\obj\Debug\netcoreapp2.1\Logistyx.Bios.WebApp.dll
+C:\repos\BIOS\Logistyx.Bios.WebApp\obj\Debug\netcoreapp2.1\Logistyx.Bios.WebApp.pdb
+C:\repos\BIOS\Logistyx.Bios.WebApp\obj\Debug\netcoreapp2.1\Logistyx.Bios.WebApp.csproj.CopyComplete
+C:\Users\Iris Farfán\source\repos\TX_BIOS\Logistyx.Bios.WebApp\bin\Debug\netcoreapp2.1\Logistyx.Bios.WebApp.deps.json
+C:\Users\Iris Farfán\source\repos\TX_BIOS\Logistyx.Bios.WebApp\bin\Debug\netcoreapp2.1\Logistyx.Bios.WebApp.runtimeconfig.json
+C:\Users\Iris Farfán\source\repos\TX_BIOS\Logistyx.Bios.WebApp\bin\Debug\netcoreapp2.1\Logistyx.Bios.WebApp.runtimeconfig.dev.json
+C:\Users\Iris Farfán\source\repos\TX_BIOS\Logistyx.Bios.WebApp\bin\Debug\netcoreapp2.1\Logistyx.Bios.WebApp.dll
+C:\Users\Iris Farfán\source\repos\TX_BIOS\Logistyx.Bios.WebApp\bin\Debug\netcoreapp2.1\Logistyx.Bios.WebApp.pdb
+C:\Users\Iris Farfán\source\repos\TX_BIOS\Logistyx.Bios.WebApp\bin\Debug\netcoreapp2.1\Logistyx.Bios.WebApp.Views.dll
+C:\Users\Iris Farfán\source\repos\TX_BIOS\Logistyx.Bios.WebApp\bin\Debug\netcoreapp2.1\Logistyx.Bios.WebApp.Views.pdb
+C:\Users\Iris Farfán\source\repos\TX_BIOS\Logistyx.Bios.WebApp\obj\Debug\netcoreapp2.1\Logistyx.Bios.WebApp.csprojAssemblyReference.cache
+C:\Users\Iris Farfán\source\repos\TX_BIOS\Logistyx.Bios.WebApp\obj\Debug\netcoreapp2.1\Logistyx.Bios.WebApp.csproj.CoreCompileInputs.cache
+C:\Users\Iris Farfán\source\repos\TX_BIOS\Logistyx.Bios.WebApp\obj\Debug\netcoreapp2.1\Logistyx.Bios.WebApp.RazorAssemblyInfo.cache
+C:\Users\Iris Farfán\source\repos\TX_BIOS\Logistyx.Bios.WebApp\obj\Debug\netcoreapp2.1\Logistyx.Bios.WebApp.RazorAssemblyInfo.cs
+C:\Users\Iris Farfán\source\repos\TX_BIOS\Logistyx.Bios.WebApp\obj\Debug\netcoreapp2.1\Logistyx.Bios.WebApp.AssemblyInfoInputs.cache
+C:\Users\Iris Farfán\source\repos\TX_BIOS\Logistyx.Bios.WebApp\obj\Debug\netcoreapp2.1\Logistyx.Bios.WebApp.AssemblyInfo.cs
+C:\Users\Iris Farfán\source\repos\TX_BIOS\Logistyx.Bios.WebApp\obj\Debug\netcoreapp2.1\Logistyx.Bios.WebApp.TagHelpers.input.cache
+C:\Users\Iris Farfán\source\repos\TX_BIOS\Logistyx.Bios.WebApp\obj\Debug\netcoreapp2.1\Logistyx.Bios.WebApp.TagHelpers.output.cache
+C:\Users\Iris Farfán\source\repos\TX_BIOS\Logistyx.Bios.WebApp\obj\Debug\netcoreapp2.1\Logistyx.Bios.WebApp.RazorCoreGenerate.cache
+C:\Users\Iris Farfán\source\repos\TX_BIOS\Logistyx.Bios.WebApp\obj\Debug\netcoreapp2.1\Razor\Views\Home\Index.g.cshtml.cs
+C:\Users\Iris Farfán\source\repos\TX_BIOS\Logistyx.Bios.WebApp\obj\Debug\netcoreapp2.1\Razor\Views\Shared\Error.g.cshtml.cs
+C:\Users\Iris Farfán\source\repos\TX_BIOS\Logistyx.Bios.WebApp\obj\Debug\netcoreapp2.1\Razor\Views\Shared\_Layout.g.cshtml.cs
+C:\Users\Iris Farfán\source\repos\TX_BIOS\Logistyx.Bios.WebApp\obj\Debug\netcoreapp2.1\Razor\Views\_ViewImports.g.cshtml.cs
+C:\Users\Iris Farfán\source\repos\TX_BIOS\Logistyx.Bios.WebApp\obj\Debug\netcoreapp2.1\Razor\Views\_ViewStart.g.cshtml.cs
+C:\Users\Iris Farfán\source\repos\TX_BIOS\Logistyx.Bios.WebApp\obj\Debug\netcoreapp2.1\Logistyx.Bios.WebApp.RazorTargetAssemblyInfo.cache
+C:\Users\Iris Farfán\source\repos\TX_BIOS\Logistyx.Bios.WebApp\obj\Debug\netcoreapp2.1\Logistyx.Bios.WebApp.RazorTargetAssemblyInfo.cs
+C:\Users\Iris Farfán\source\repos\TX_BIOS\Logistyx.Bios.WebApp\obj\Debug\netcoreapp2.1\Logistyx.Bios.WebApp.Views.pdb
+C:\Users\Iris Farfán\source\repos\TX_BIOS\Logistyx.Bios.WebApp\obj\Debug\netcoreapp2.1\Logistyx.Bios.WebApp.dll
+C:\Users\Iris Farfán\source\repos\TX_BIOS\Logistyx.Bios.WebApp\obj\Debug\netcoreapp2.1\Logistyx.Bios.WebApp.pdb
+C:\Users\Iris Farfán\source\repos\TX_BIOS\Logistyx.Bios.WebApp\obj\Debug\netcoreapp2.1\Logistyx.Bios.WebApp.csproj.CopyComplete
+C:\Users\Iris Farfán\source\repos\TX_BIOS 2\Logistyx.Bios.WebApp\bin\Debug\netcoreapp2.1\Logistyx.Bios.WebApp.deps.json
+C:\Users\Iris Farfán\source\repos\TX_BIOS 2\Logistyx.Bios.WebApp\bin\Debug\netcoreapp2.1\Logistyx.Bios.WebApp.runtimeconfig.json
+C:\Users\Iris Farfán\source\repos\TX_BIOS 2\Logistyx.Bios.WebApp\bin\Debug\netcoreapp2.1\Logistyx.Bios.WebApp.runtimeconfig.dev.json
+C:\Users\Iris Farfán\source\repos\TX_BIOS 2\Logistyx.Bios.WebApp\bin\Debug\netcoreapp2.1\Logistyx.Bios.WebApp.dll
+C:\Users\Iris Farfán\source\repos\TX_BIOS 2\Logistyx.Bios.WebApp\bin\Debug\netcoreapp2.1\Logistyx.Bios.WebApp.pdb
+C:\Users\Iris Farfán\source\repos\TX_BIOS 2\Logistyx.Bios.WebApp\bin\Debug\netcoreapp2.1\Logistyx.Bios.WebApp.Views.dll
+C:\Users\Iris Farfán\source\repos\TX_BIOS 2\Logistyx.Bios.WebApp\bin\Debug\netcoreapp2.1\Logistyx.Bios.WebApp.Views.pdb
+C:\Users\Iris Farfán\source\repos\TX_BIOS 2\Logistyx.Bios.WebApp\obj\Debug\netcoreapp2.1\Logistyx.Bios.WebApp.csprojAssemblyReference.cache
+C:\Users\Iris Farfán\source\repos\TX_BIOS 2\Logistyx.Bios.WebApp\obj\Debug\netcoreapp2.1\Logistyx.Bios.WebApp.csproj.CoreCompileInputs.cache
+C:\Users\Iris Farfán\source\repos\TX_BIOS 2\Logistyx.Bios.WebApp\obj\Debug\netcoreapp2.1\Logistyx.Bios.WebApp.RazorAssemblyInfo.cache
+C:\Users\Iris Farfán\source\repos\TX_BIOS 2\Logistyx.Bios.WebApp\obj\Debug\netcoreapp2.1\Logistyx.Bios.WebApp.RazorAssemblyInfo.cs
+C:\Users\Iris Farfán\source\repos\TX_BIOS 2\Logistyx.Bios.WebApp\obj\Debug\netcoreapp2.1\Logistyx.Bios.WebApp.AssemblyInfoInputs.cache
+C:\Users\Iris Farfán\source\repos\TX_BIOS 2\Logistyx.Bios.WebApp\obj\Debug\netcoreapp2.1\Logistyx.Bios.WebApp.AssemblyInfo.cs
+C:\Users\Iris Farfán\source\repos\TX_BIOS 2\Logistyx.Bios.WebApp\obj\Debug\netcoreapp2.1\Logistyx.Bios.WebApp.TagHelpers.input.cache
+C:\Users\Iris Farfán\source\repos\TX_BIOS 2\Logistyx.Bios.WebApp\obj\Debug\netcoreapp2.1\Logistyx.Bios.WebApp.TagHelpers.output.cache
+C:\Users\Iris Farfán\source\repos\TX_BIOS 2\Logistyx.Bios.WebApp\obj\Debug\netcoreapp2.1\Logistyx.Bios.WebApp.RazorCoreGenerate.cache
+C:\Users\Iris Farfán\source\repos\TX_BIOS 2\Logistyx.Bios.WebApp\obj\Debug\netcoreapp2.1\Razor\Views\Home\Index.g.cshtml.cs
+C:\Users\Iris Farfán\source\repos\TX_BIOS 2\Logistyx.Bios.WebApp\obj\Debug\netcoreapp2.1\Razor\Views\Shared\Error.g.cshtml.cs
+C:\Users\Iris Farfán\source\repos\TX_BIOS 2\Logistyx.Bios.WebApp\obj\Debug\netcoreapp2.1\Razor\Views\Shared\_Layout.g.cshtml.cs
+C:\Users\Iris Farfán\source\repos\TX_BIOS 2\Logistyx.Bios.WebApp\obj\Debug\netcoreapp2.1\Razor\Views\_ViewImports.g.cshtml.cs
+C:\Users\Iris Farfán\source\repos\TX_BIOS 2\Logistyx.Bios.WebApp\obj\Debug\netcoreapp2.1\Razor\Views\_ViewStart.g.cshtml.cs
+C:\Users\Iris Farfán\source\repos\TX_BIOS 2\Logistyx.Bios.WebApp\obj\Debug\netcoreapp2.1\Logistyx.Bios.WebApp.RazorTargetAssemblyInfo.cache
+C:\Users\Iris Farfán\source\repos\TX_BIOS 2\Logistyx.Bios.WebApp\obj\Debug\netcoreapp2.1\Logistyx.Bios.WebApp.RazorTargetAssemblyInfo.cs
+C:\Users\Iris Farfán\source\repos\TX_BIOS 2\Logistyx.Bios.WebApp\obj\Debug\netcoreapp2.1\Logistyx.Bios.WebApp.Views.pdb
+C:\Users\Iris Farfán\source\repos\TX_BIOS 2\Logistyx.Bios.WebApp\obj\Debug\netcoreapp2.1\Logistyx.Bios.WebApp.dll
+C:\Users\Iris Farfán\source\repos\TX_BIOS 2\Logistyx.Bios.WebApp\obj\Debug\netcoreapp2.1\Logistyx.Bios.WebApp.pdb
+C:\Users\Iris Farfán\source\repos\TX_BIOS 2\Logistyx.Bios.WebApp\obj\Debug\netcoreapp2.1\Logistyx.Bios.WebApp.csproj.CopyComplete
