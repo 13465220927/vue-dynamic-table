@@ -221,17 +221,18 @@
         }
         
         const index = (indexRow + 1) * this.headers.length + indexCol - this.headers.length;
+        const indexKey = (indexRow + 1) * this.headers.length - this.headers.length;
 
-
-        console.log(indexRow, indexCol, index);
+        console.log(indexKey);
+        console.log(this.$refs.tdRef[indexKey].innerText.trim());
 
         console.log(this.headers[indexCol], this.$refs.tdRef[index].innerText.trim(), key.trim());
 
         try {
-          var response = await api.update(key.trim(), {
+          var response = await api.update(this.$refs.tdRef[indexKey].innerText.trim(), {
             "languageCode": this.headers[indexCol],
             "translation": this.$refs.tdRef[index].innerText.trim(),
-            "key": key.trim()
+            "key": this.$refs.tdRef[indexKey].innerText.trim()
           });
           console.log(response);
         } catch (err) {
