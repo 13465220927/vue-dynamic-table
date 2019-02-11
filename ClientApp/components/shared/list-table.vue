@@ -133,6 +133,11 @@
       },
 
       async enterKeyRow(indexRow, indexCol, key) {
+        
+        const indexKey = (indexRow + 1) * this.headers.length - this.headers.length;
+        //key = this.$refs.tdRef[indexKey].innerText;
+
+        console.log(key);
 
         if (indexCol == 0) {
           return;
@@ -142,8 +147,11 @@
         
         if (this.$refs.tdRef[index].innerText.trim() != "") {
           await this.createKey(key.trim(), this.headers[indexCol], this.$refs.tdRef[index].innerText.trim());
+          this.items[key][this.headers[indexCol]] = this.$refs.tdRef[index].innerText.trim();
         }
 
+        console.log(this.items);
+        
         if (this.$refs.tdRef[index + this.headers.length] != undefined) {
           this.$refs.tdRef[index + this.headers.length].focus();
         }
@@ -219,14 +227,9 @@
         if (indexCol == 0) {
           return;
         }
-        
+
         const index = (indexRow + 1) * this.headers.length + indexCol - this.headers.length;
         const indexKey = (indexRow + 1) * this.headers.length - this.headers.length;
-
-        console.log(indexKey);
-        console.log(this.$refs.tdRef[indexKey].innerText.trim());
-
-        console.log(this.headers[indexCol], this.$refs.tdRef[index].innerText.trim(), key.trim());
 
         try {
           var response = await api.update(this.$refs.tdRef[indexKey].innerText.trim(), {
@@ -238,9 +241,20 @@
         } catch (err) {
           console.log(err);
         }
-
         
-        this.items[key][this.headers[indexCol]] = this.$refs.tdRef[index].innerText.trim();
+        if (key == "new_key") {
+          delete this.items[key];
+
+          this.items[this.$refs.tdRef[indexKey].innerText] = Object.assign({}, ...this.headers.map(id => ({ [id]: {} })));;
+          this.items[this.$refs.tdRef[indexKey].innerText][this.headers[indexCol]] = this.$refs.tdRef[index].innerText.trim();
+          this.items[this.$refs.tdRef[indexKey].innerText]['key'] = this.$refs.tdRef[indexKey].innerText.trim();
+          
+        }
+        else {
+          this.items[key][this.headers[indexCol]] = this.$refs.tdRef[index].innerText.trim();
+        }
+        
+        console.log(this.items);
       }
     },
 
